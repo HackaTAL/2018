@@ -2,7 +2,9 @@
 
 # Hackathon CORIA-TALN 2018 (HackDays+HackaTAL)
 ---------------
-**(hackathon dans le domaine de la RI et du TAL)**
+**(hackathon dans le domaine de la recherche d'information et du traitement automatique des langues)**
+
+# Fake ou Pas Fake ?
 
 ### TL;DR
 
