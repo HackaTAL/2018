@@ -1,10 +1,10 @@
 ![HACKATAL 2018](https://raw.githubusercontent.com/HackaTAL/2018/gh-pages/hackatal2018.png)
 
+# Fake ou Pas Fake ?
+
 ## Hackathon CORIA-TALN 2018
 ---------------
 *(hackathon en recherche d'information et traitement automatique des langues)*
-
-# Fake ou Pas Fake ?
 
 ### TL;DR
 
