@@ -1,8 +1,8 @@
 ![HACKATAL 2018](https://raw.githubusercontent.com/HackaTAL/2018/gh-pages/hackatal2018.png)
 
-# Hackathon CORIA-TALN 2018 (HackDays+HackaTAL)
+## Hackathon CORIA-TALN 2018
 ---------------
-**(hackathon dans le domaine de la recherche d'information et du traitement automatique des langues)**
+*(hackathon en recherche d'information et traitement automatique des langues)*
 
 # Fake ou Pas Fake ?
 
