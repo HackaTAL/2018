@@ -35,8 +35,11 @@ Quelques questions parmi celles évoquées :
 
 *Objectifs*
 
-Sur un flux d'infos, détecter quels textes sont des fake news ?
+Sur un flux d'infos, parvenir à détecter les fake news ?
 
+TBC
+
+<!---
 *Sous tâches*
 
 - ...
@@ -44,6 +47,7 @@ Sur un flux d'infos, détecter quels textes sont des fake news ?
 *Données et évaluation*
 
 ...
+--->
 
 **1. Caractérisation des fake news**
 
@@ -51,6 +55,9 @@ Sur un flux d'infos, détecter quels textes sont des fake news ?
 
 Y-a-t-il un langage ou des ressorts linguistiques spécifiques aux Fake News ?
 
+TBC
+
+<!---
 *Sous tâches*
 
 - ...
@@ -58,14 +65,18 @@ Y-a-t-il un langage ou des ressorts linguistiques spécifiques aux Fake News ?
 *Données et évaluation*
 
 ...
+--->
 
 **2. Visualisation de réseaux de news**
 
 
 *Objectifs*
 
-Visualisation de la manière dont les fake news sont émises et se propagent ?
+Comment visualiser la manière dont les fake news sont émises et se propagent ?
 
+TBC
+
+<!---
 *Sous tâches*
 
 - ...
@@ -73,6 +84,7 @@ Visualisation de la manière dont les fake news sont émises et se propagent ?
 *Données et évaluation*
 
 ...
+--->
 
 ### Planning prévisionnel (TBD)
 
@@ -115,6 +127,5 @@ Données et briques logicielles seront en ligne : https://github.com/HackaTAL/20
 - Julien Velcin
 - Gael Guibon
 - Loïc Grobol
-- Gilles Moyse
 - Mathieu Jacomy
 - Raphaël Troncy
