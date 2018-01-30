@@ -35,7 +35,21 @@ Quelques questions parmi celles évoquées :
 
 *Objectifs*
 
-Sur unn flux d'infos, détecter quels textes sont des fake news ?
+Sur un flux d'infos, détecter quels textes sont des fake news ?
+
+*Sous tâches*
+
+- ...
+
+*Données et évaluation*
+
+...
+
+**1. Caractérisation des fake news**
+
+*Objectifs*
+
+Y-a-t-il un langage ou des ressorts linguistiques spécifiques aux Fake News ?
 
 *Sous tâches*
 
@@ -50,7 +64,7 @@ Sur unn flux d'infos, détecter quels textes sont des fake news ?
 
 *Objectifs*
 
-Visualisation de la manière dont les news se propagent ?
+Visualisation de la manière dont les fake news sont émises et se propagent ?
 
 *Sous tâches*
 
