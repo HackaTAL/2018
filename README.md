@@ -77,6 +77,7 @@ Logiciels et données en ligne : https://github.com/HackaTAL/2018
 
 ### Organisateurs
 
+Arnaud Bichet (Storyzy)  
 Kevin Deturck (Viseo / ERTIM)  
 Nicolas Dugué (LIUM)  
 Loïc Grobol (LaTTiCe)  
@@ -84,6 +85,6 @@ Gael Guibon (LSIS, Caléa)
 Charles Huyghues-Despointes (Bertin)  
 Damien Nouvel (ERTIM)  
 Benjamin Piwowarski (LIP6)  
-Ramon Ruti (Storyzi)  
+Ramon Ruti (Storyzy)  
 Raphaël Troncy (Eurecom)  
 Julien Velcin (ERIC)  
