@@ -55,7 +55,7 @@ Lundi 14 mai :
 - 13h-14h : accueil et café
 - 14h-15h : présentation du hackathon
 - 15h-18h : développements en équipes
-- 18h-19h : présentations invitées
+- 18h-19h : présentations
 - 19h-20h : cocktail dinatoire
 - 20h-... : développements en équipes
 
