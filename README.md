@@ -6,13 +6,13 @@
 ---------------
 *(hackathon en recherche d’information et traitement automatique des langues)*
 
-### TL;DR
+### Résumé
 
-Tâches : détection et visualisation de fausses informations sur les réseaux  
-Site web : http://hackatal.github.io/2018  
-Dates : 14 et 15 mai 2018  
-Lieu : IRISA, Rennes  
-Inscription (gratuite mais obligatoire) : https://goo.gl/forms/soTeFTikjWol8bj13 !  
+Tâches : détection et visualisation de fausses informations sur les réseaux
+Site web : http://hackatal.github.io/2018 
+Dates : 14 et 15 mai 2018
+Lieu : IRISA, Rennes
+Inscription (gratuite mais obligatoire) : https://goo.gl/forms/soTeFTikjWol8bj13  !
 
 ### Description
 
@@ -61,8 +61,7 @@ Lundi 14 mai :
 
 Mardi 15 mai :
 
-- 09h-10h : accueil et café
-- 10h-12h : développements en équipes
+- 09h-12h : accueil, café, développements en équipes
 - 12h-14h : déjeuner et café
 - 14h-17h : développements en équipes
 - 17h-19h : présentation des résultats
@@ -77,7 +76,6 @@ Logiciels et données en ligne : https://github.com/HackaTAL/2018
 
 ### Organisateurs
 
-Arnaud Bichet (Storyzy)  
 Kevin Deturck (Viseo / ERTIM)  
 Nicolas Dugué (LIUM)  
 Loïc Grobol (LaTTiCe)  
@@ -85,6 +83,6 @@ Gael Guibon (LSIS, Caléa)
 Charles Huyghues-Despointes (Bertin)  
 Damien Nouvel (ERTIM)  
 Benjamin Piwowarski (LIP6)  
-Ramon Ruti (Storyzy)  
+Ramon Ruti (Storyzi)  
 Raphaël Troncy (Eurecom)  
 Julien Velcin (ERIC)  
