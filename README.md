@@ -8,17 +8,19 @@
 
 ### Résumé
 
-Tâches : détection et visualisation de fausses informations sur les réseaux
-Site web : http://hackatal.github.io/2018 
-Dates : 14 et 15 mai 2018
-Lieu : IRISA, Rennes
-Inscription (gratuite mais obligatoire) : https://goo.gl/forms/soTeFTikjWol8bj13  !
+Tâches : détection et visualisation de fausses informations sur les réseaux  
+Site web : http://hackatal.github.io/2018  
+Dates : 14 et 15 mai 2018  
+Lieu : IRISA, Rennes  
+Inscription (gratuite mais obligatoire) : https://goo.gl/forms/soTeFTikjWol8bj13  
 
 ### Description
 
 Dans le cadre de la conférence CORIA-TALN-RJC 2018 est organisé un hackathon, 3ème édition côté CORIA (Hack Days) et TALN (HackaTAL). L’évènement porte sur des problématiques en RI et en TAL. L’objectif est de réunir les communautés scientifiques, et au delà, autour de défis à relever, pour modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, échanger, etc. - par équipes, dans une ambiance décontractée :) !
 
 Les tâches proposées portent cette année sur la détection et le traitement d’informations manifestement fausses, un sujet de préoccupation pour les médias et citoyens. Ces problématiques, nouvelles pour la société de l’information, soulèvent de nombreuses questions et nous essaierons de voir si des traitements RI et TAL peuvent y répondre, pour mieux comprendre les phénomènes en jeu et y réagir, plus rapidement et de manière plus adéquate, à l’aide d’algorithmes du domaine.
+
+Un jeu de données sera fourni par la société Storyzy sur la thématique de la vaccination, qui est un sujet occasionnant la diffusion de nombreuses fausses nouvelles. Il contiendra des textes provenant de divers sites web en anglais et en français, ainsi que des transcriptions automatiques de vidéos sur cette même thématique.
 
 L’événement est ouvert à tous (informaticiens, linguistes, journalistes), ne nécessite aucune préparation particulière et ne requiert pas de compétences spécifiques aux tâches que nous proposons... tout le monde est bienvenu !
 
@@ -48,6 +50,10 @@ Le traitement des fausses nouvelles soulève d’autres questions lorsque l’on
 - déterminer la structure d’un réseau de fausses nouvelles, pour identifier des liens orientés selon l’axe temporel et l’axe thématique,
 - détecter des communautés (sites ou individus) qui propagent des fausses nouvelles.
 
+### Prix Qwant
+
+Qwant soutient l’événement et apporte un prix à une équipe, selon des critères liées à l’originalité et l’adéquation de la solution proposée à la tâche choisie. Le prix sera attribué selon un vote des participants et organisateurs, le mardi soir.
+
 ### Planning prévisionnel
 
 Lundi 14 mai :
@@ -55,7 +61,7 @@ Lundi 14 mai :
 - 13h-14h : accueil et café
 - 14h-15h : présentation du hackathon
 - 15h-18h : développements en équipes
-- 18h-19h : présentations
+- 18h-19h : présentations invitées
 - 19h-20h : cocktail dinatoire
 - 20h-... : développements en équipes
 
@@ -76,7 +82,7 @@ Logiciels et données en ligne : https://github.com/HackaTAL/2018
 
 ### Organisateurs
 
-Antoine Bichet (Storyzy)  
+Arnaud Bichet (Storyzy)  
 Kevin Deturck (Viseo / ERTIM)  
 Nicolas Dugué (LIUM)  
 Loïc Grobol (LaTTiCe)  
@@ -85,5 +91,6 @@ Charles Huyghues-Despointes (Bertin)
 Damien Nouvel (ERTIM)  
 Benjamin Piwowarski (LIP6)  
 Ramon Ruti (Storyzy)  
+Christophe Servan (Qwant)  
 Raphaël Troncy (Eurecom)  
 Julien Velcin (ERIC)  
