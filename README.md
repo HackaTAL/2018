@@ -12,6 +12,7 @@ Tâches : détection et visualisation de fausses informations sur les réseaux
 Site web : http://hackatal.github.io/2018  
 Dates : 14 et 15 mai 2018  
 Lieu : IRISA, Rennes  
+Prix : Qwant (par vote)  
 Inscription (gratuite mais obligatoire) : https://goo.gl/forms/soTeFTikjWol8bj13  
 
 ### Description
@@ -54,7 +55,7 @@ Le traitement des fausses nouvelles soulève d’autres questions lorsque l’on
 
 Qwant soutient l’événement et apporte un prix à une équipe, selon des critères liées à l’originalité et l’adéquation de la solution proposée à la tâche choisie. Le prix sera attribué selon un vote des participants et organisateurs, le mardi soir.
 
-### Planning prévisionnel
+### Planning
 
 Lundi 14 mai :
 
