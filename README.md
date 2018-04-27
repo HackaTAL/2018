@@ -1,4 +1,4 @@
-![Hackathon CORIA-TALN 2018](https://raw.githubusercontent.com/HackaTAL/2018/gh-pages/Hackathon_CORIA-TALN_2018.png)
+![Hackathon CORIA-TALN 2018](https://raw.githubusercontent.com/HackaTAL/2018/gh-pages/Hackathon_CORIA-TALN_2018.gif)
 
 # Fake ou pas Fake ?
 
