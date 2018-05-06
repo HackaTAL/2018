@@ -63,8 +63,11 @@ Lundi 14 mai :
 - 14h-15h : présentation du hackathon
 - 15h-18h : développements en équipes
 - 18h-19h : présentations invitées (TBC)
-	- Arnaud Bichet (Storyzy) - Brand Safety : protéger la marque contre les Fake News
-- 19h-20h : cocktail dinatoire
+	- Denis Teyssou, AFP - TBA
+	- Arnaud Bichet, Storyzy - Brand Safety : protéger la marque contre les Fake News
+	- Timothée Gidoin, Datagora - Comment utiliser au mieux les données statistiques publiques pour lutter contre la désinformation ?
+	- Christophe Servan, Qwant - TBA
+- 19h-20h : pause repas
 - 20h-... : développements en équipes
 
 Mardi 15 mai :
