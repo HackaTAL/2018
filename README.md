@@ -68,15 +68,16 @@ Lundi 14 mai :
 	- Timothée Gidoin, Datagora - Comment utiliser au mieux les données statistiques publiques pour lutter contre la désinformation ?
 	- Christophe Servan, Qwant - TBA
 - 19h-20h : pause repas
-- 20h-... : développements en équipes
+- 20h-00h : développements en équipes
 
 Mardi 15 mai :
 
 - 09h-12h : accueil, café, développements en équipes
 - 12h-14h : déjeuner et café
 - 14h-17h : développements en équipes
-- 17h-19h : présentation des résultats
-- 19h-21h : conclusion et cocktail
+- 17h-18h : présentation des résultats
+- 18h-19h : cocktail
+- 18h-19h : remise du prix et conclusion
 
 ### Organisation pratique
 
