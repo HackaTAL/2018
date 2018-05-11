@@ -67,7 +67,7 @@ Lundi 14 mai :
 	- Arnaud Bichet, [Storyzy](http://storyzy.com) - Brand Safety : protéger la marque contre les Fake News
 	- Timothée Gidoin, [Datagora](https://www.datagora.fr/) - Comment utiliser au mieux les données statistiques publiques pour lutter contre la désinformation ?
 	- Christophe Servan, [Qwant](http://qwant.com) - TBA
-	- Emmanuel Vincent, [Climate Feedback](http://climatefeedback.org) Climate Feedback - Une approche collaborative pour contrer la désinformation scientifique sur le climat
+	- Emmanuel Vincent, [Climate Feedback](http://climatefeedback.org) - Une approche collaborative pour contrer la désinformation scientifique sur le climat
 - 19h-20h : pause repas
 - 20h-00h : développements en équipes
 
