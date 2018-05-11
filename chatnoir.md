@@ -12,8 +12,7 @@ ChatNoir est un moteur de recherche sur des collections archivées du Web :
 
 ## Obtenir une clef pour l'API
 
-Obtenir une clef API en allant sur le site  [chatnoir](https://www.chatnoir.eu/apikey). Le *passcode* à utiliser sera donné lors du hackathon. Vous recevrez un email avec un lien d'activation; en cliquant sur ce lien, vous arriverez sur une page où un 
-
+Obtenir une clef API en allant sur le site  [chatnoir](https://www.chatnoir.eu/apikey). Le *passcode* à utiliser sera donné lors du hackathon. Vous recevrez un email avec un lien d'activation; en cliquant sur ce lien, vous arriverez sur une page où un e clef d'API vous sera donnée (elle vous sera également envoyée par email). Notez la car elle sera nécessaire pour la suite.
 
 ## API
 
