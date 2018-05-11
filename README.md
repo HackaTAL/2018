@@ -63,10 +63,11 @@ Lundi 14 mai :
 - 14h-15h : présentation du hackathon
 - 15h-18h : développements en équipes
 - 18h-19h : présentations invitées (TBC)
-	- Denis Teyssou, AFP - TBA
-	- Arnaud Bichet, Storyzy - Brand Safety : protéger la marque contre les Fake News
-	- Timothée Gidoin, Datagora - Comment utiliser au mieux les données statistiques publiques pour lutter contre la désinformation ?
-	- Christophe Servan, Qwant - TBA
+	- Denis Teyssou, [AFP](https://www.afp.com) - Quelques cas « réels » de désinformation du point de vue du TAL
+	- Arnaud Bichet, [Storyzy](http://storyzy.com) - Brand Safety : protéger la marque contre les Fake News
+	- Timothée Gidoin, [Datagora](https://www.datagora.fr/) - Comment utiliser au mieux les données statistiques publiques pour lutter contre la désinformation ?
+	- Christophe Servan, [Qwant](http://qwant.com) - TBA
+	- Emmanuel Vincent, [Climate Feedback](http://climatefeedback.org) "Climate Feedback": une approche collaborative pour contrer la désinformation scientifique sur le climat
 - 19h-20h : pause repas
 - 20h-00h : développements en équipes
 
