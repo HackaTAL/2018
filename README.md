@@ -62,7 +62,7 @@ Lundi 14 mai :
 - 13h-14h : accueil et café
 - 14h-15h : présentation du hackathon
 - 15h-18h : développements en équipes
-- 18h-19h : présentations invitées (TBC)
+- 18h-19h : présentations invitées
 	- Denis Teyssou, [AFP](https://www.afp.com) - Quelques cas « réels » de désinformation du point de vue du TAL
 	- Arnaud Bichet, [Storyzy](http://storyzy.com) - Brand Safety : protéger la marque contre les Fake News
 	- Timothée Gidoin, [Datagora](https://www.datagora.fr/) - Comment utiliser au mieux les données statistiques publiques pour lutter contre la désinformation ?
