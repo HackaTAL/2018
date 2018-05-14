@@ -111,16 +111,15 @@ optional arguments:
 
 Exemple :
 
-`python3 eval-hackathon2018.py -g storyzy_en_test1_full.tsv -p storyzy_en_test1_full.tsv`
+`python3 eval-hackathon2018.py -g storyzy_en_ref.tsv -p storyzy_en_hyp.tsv`
 
 *summary-eval.sh*
 
 Script pour avoir un résumé global rapidement (c'est juste un raccourci).
 
-`sh summary-eval.sh [GOLD_FR] [PRED_FR] [GOLD_EN] [PRED_EN]`
+`sh summary-eval.sh [GOLD_FR] [PRED_FR] [GOLD_EN] [PRED_EN] [GOLD_YT] [PRED_YT]`
 
 [Liste des participants](https://docs.google.com/spreadsheets/d/18Z6Zm4Ixpx91x7Y1F7yt0iOZvSn41aYXYFGgIGoNFnk/edit?usp=sharing)
-
 
 Logiciels et données en ligne
 
