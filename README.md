@@ -119,7 +119,7 @@ Script pour avoir un résumé global rapidement (c'est juste un raccourci).
 
 `sh summary-eval.sh [GOLD_FR] [PRED_FR] [GOLD_EN] [PRED_EN] [GOLD_YT] [PRED_YT]`
 
-[Liste des participants](https://docs.google.com/spreadsheets/d/18Z6Zm4Ixpx91x7Y1F7yt0iOZvSn41aYXYFGgIGoNFnk/edit?usp=sharing)
+Inscrivez-vous sur la [Liste des participants](https://docs.google.com/spreadsheets/d/18Z6Zm4Ixpx91x7Y1F7yt0iOZvSn41aYXYFGgIGoNFnk/edit?usp=sharing)
 
 Logiciels et données en ligne
 
