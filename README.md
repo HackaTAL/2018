@@ -51,6 +51,11 @@ Le traitement des fausses nouvelles soulève d’autres questions lorsque l’on
 - déterminer la structure d’un réseau de fausses nouvelles, pour identifier des liens orientés selon l’axe temporel et l’axe thématique,
 - détecter des communautés (sites ou individus) qui propagent des fausses nouvelles.
 
+### Ressources complémentaires 
+
+- [Liste de ressources](ressources.md)
+- [API chat noir](chatnoir.md)
+
 ### Prix Qwant
 
 Qwant soutient l’événement et apporte un prix à une équipe, selon des critères liées à l’originalité et l’adéquation de la solution proposée à la tâche choisie. Le prix sera attribué selon un vote des participants et organisateurs, le mardi soir.

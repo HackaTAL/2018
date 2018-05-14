@@ -16,7 +16,7 @@
 - [Venez débusquer les fake news lors de l'HackaTAL 2018](http://www.inalco.fr/actualite/venez-debusquer-fake-news-hackatal-2018)
 - [Atelier CAJOLE](http://www.info.univ-tours.fr/~marcel/cajole2018/)
 - [Workshop on Digital Misinformation](http://cnets.indiana.edu/blog/2016/12/29/icwsm-2017-misinformation-workshop/)
-- [CLEF Automatic Identification and Verification of Claims in Political Debates](http://alt.qcri.org/clef2018-factcheck/)
+- [CLEF Fact Checking Lab](http://alt.qcri.org/clef2018-factcheck/)
 - [Google Scholar : Fake news](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=fake+news&btnG=&oq=fake+news)
 - [Repository Fake News](https://github.com/BenjaminDHorne/fakenewsdata1)
 - [BuzzFeed News](https://github.com/BuzzFeedNews/everything)
