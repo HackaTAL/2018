@@ -92,6 +92,10 @@ Aucune préparation requise des participants en amont de l’évènement
 
 **Explications sur les script d'évaluation**
 
+*Format attendu*
+
+Fichier tabulaire tsv contenant deux champs : id et type.
+
 *eval-hackathon2018.py*
 
 ```bash
@@ -107,13 +111,13 @@ optional arguments:
 
 Exemple :
 
-```bash python3 eval-hackathon2018.py -g storyzy_en_test1_full.tsv -p storyzy_en_test1_full.tsv```
+`python3 eval-hackathon2018.py -g storyzy_en_test1_full.tsv -p storyzy_en_test1_full.tsv`
 
 *summary-eval.sh*
 
 Script pour avoir un résumé global rapidement (c'est juste un raccourci).
 
-```bash sh summary-eval.sh [GOLD_FR] [PRED_FR] [GOLD_EN] [PRED_EN]```
+`sh summary-eval.sh [GOLD_FR] [PRED_FR] [GOLD_EN] [PRED_EN]`
 
 [Liste des participants](https://docs.google.com/spreadsheets/d/18Z6Zm4Ixpx91x7Y1F7yt0iOZvSn41aYXYFGgIGoNFnk/edit?usp=sharing)
 
