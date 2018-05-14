@@ -86,7 +86,7 @@ BYOD (amenez votre ordinateur)
 Pas de critères pour participer, le hackathon est ouvert à tous !  
 Aucune préparation requise des participants en amont de l’évènement  
 
-
+**Données**
 
 [Données train et test, script d'évaluation](http://damien.nouvels.net/bazar/hackathon2018/)
 
