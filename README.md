@@ -86,9 +86,34 @@ BYOD (amenez votre ordinateur)
 Pas de critères pour participer, le hackathon est ouvert à tous !  
 Aucune préparation requise des participants en amont de l’évènement  
 
-Données
 
-- [train](http://damien.nouvels.net/bazar/hackathon2018/)
+
+[Données train et test, script d'évaluation](http://damien.nouvels.net/bazar/hackathon2018/)
+
+**Explications sur les script d'évaluation**
+
+*eval-hackathon2018.py*
+
+```bash
+python3 eval-hackathon2018.py -h
+Usage :
+usage: eval-hackathon2018.py [-h] [-g GOLD] [-p PRED] [-s]
+optional arguments:
+  -h, --help            show this help message and exit
+  -g GOLD, --gold GOLD  gold path file
+  -p PRED, --pred PRED  pred path file
+  -s, --satire          include satire (only for english)
+```
+
+Exemple :
+
+```bash python3 eval-hackathon2018.py -g storyzy_en_test1_full.tsv -p storyzy_en_test1_full.tsv```
+
+*summary-eval.sh*
+
+Script pour avoir un résumé global rapidement (c'est juste un raccourci).
+
+```bash sh summary-eval.sh [GOLD_FR] [PRED_FR] [GOLD_EN] [PRED_EN]```
 
 [Liste des participants](https://docs.google.com/spreadsheets/d/18Z6Zm4Ixpx91x7Y1F7yt0iOZvSn41aYXYFGgIGoNFnk/edit?usp=sharing)
 
