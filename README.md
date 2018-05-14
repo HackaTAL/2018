@@ -51,11 +51,6 @@ Le traitement des fausses nouvelles soulève d’autres questions lorsque l’on
 - déterminer la structure d’un réseau de fausses nouvelles, pour identifier des liens orientés selon l’axe temporel et l’axe thématique,
 - détecter des communautés (sites ou individus) qui propagent des fausses nouvelles.
 
-### Ressources complémentaires 
-
-- [Liste de ressources](ressources.md)
-- [API chat noir](chatnoir.md)
-
 ### Prix Qwant
 
 Qwant soutient l’événement et apporte un prix à une équipe, selon des critères liées à l’originalité et l’adéquation de la solution proposée à la tâche choisie. Le prix sera attribué selon un vote des participants et organisateurs, le mardi soir.
@@ -90,7 +85,12 @@ Mardi 15 mai :
 BYOD (amenez votre ordinateur)  
 Pas de critères pour participer, le hackathon est ouvert à tous !  
 Aucune préparation requise des participants en amont de l’évènement  
-Logiciels et données en ligne : https://github.com/HackaTAL/2018  
+
+Logiciels et données en ligne
+
+- [Git](https://github.com/HackaTAL/2018)
+- [Liste de ressources](https://github.com/HackaTAL/2018/ressources.md)
+- [API chat noir](https://github.com/HackaTAL/2018/chatnoir.md)
 
 ### Organisateurs
 
