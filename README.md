@@ -86,11 +86,18 @@ BYOD (amenez votre ordinateur)
 Pas de critères pour participer, le hackathon est ouvert à tous !  
 Aucune préparation requise des participants en amont de l’évènement  
 
+Données
+
+- [train](http://damien.nouvels.net/bazar/hackathon2018/)
+
+[Liste des participants](https://docs.google.com/spreadsheets/d/18Z6Zm4Ixpx91x7Y1F7yt0iOZvSn41aYXYFGgIGoNFnk/edit?usp=sharing)
+
+
 Logiciels et données en ligne
 
 - [Git](https://github.com/HackaTAL/2018)
-- [Liste de ressources](https://github.com/HackaTAL/2018/ressources.md)
-- [API chat noir](https://github.com/HackaTAL/2018/chatnoir.md)
+- [Liste de ressources](https://github.com/HackaTAL/2018/blob/master/ressources.md)
+- [API chat noir](https://github.com/HackaTAL/2018/blob/master/chatnoir.md)
 
 ### Organisateurs
 
