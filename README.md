@@ -96,7 +96,7 @@ Aucune préparation requise des participants en amont de l’évènement
 
 Fichier tabulaire tsv contenant deux champs : id et type.
 
-*eval-hackathon2018.py*
+*Évaluation d'un fichier : eval-hackathon2018.py*
 
 ```bash
 python3 eval-hackathon2018.py -h
@@ -113,7 +113,7 @@ Exemple :
 
 `python3 eval-hackathon2018.py -g storyzy_en_ref.tsv -p storyzy_en_hyp.tsv`
 
-*summary-eval.sh*
+*Évaluation globale sur en, fr, yt : summary-eval.sh*
 
 Script pour avoir un résumé global rapidement (c'est juste un raccourci).
 
