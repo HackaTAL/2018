@@ -78,7 +78,7 @@ Mardi 15 mai :
 - 14h-17h : développements en équipes
 - 17h-18h : présentation des résultats
 - 18h-19h : cocktail
-- 18h-19h : remise du prix et conclusion
+- 19h-20h : remise du prix et conclusion
 
 ### Organisation pratique
 
