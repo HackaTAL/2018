@@ -13,7 +13,8 @@ Site web : http://hackatal.github.io/2018
 Dates : 14 et 15 mai 2018  
 Lieu : IRISA, Rennes  
 Prix : Qwant (par vote)  
-Inscription (gratuite mais obligatoire) : https://goo.gl/forms/soTeFTikjWol8bj13  
+Inscription (gratuite mais obligatoire) : https://goo.gl/forms/soTeFTikjWol8bj13
+Fil twitter : https://twitter.com/hashtag/HackCORIATALN2018
 
 ### Description
 
